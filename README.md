@@ -4,15 +4,16 @@
   		<img src="https://github-readme-stats.vercel.app/api?username=Git-Jaydeep&show_icons=true&count_private=true&custom_title=Jaydeep's GitHub Stats&theme=nightowl" />  
 	</a>
 </div>
-<div align="left">
-	<a href="http://thejaydeep.tech" >  
-  		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jay_D__P&theme=nightowl" />  
-	</a>
-</div>
 <!--
 <div align="left">
 	<a href="http://thejaydeep.tech" >  
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Jaydeep&langs_count=10&theme=nightowl" />  
+  		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jay_D__P&theme=light&bg=00000000" />  
+	</a>
+</div>
+
+<div align="left">
+	<a href="http://thejaydeep.tech" >  
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Jaydeep&langs_count=10&theme=light&bg=00000000" />  
 	</a>
 </div>
 -->
@@ -22,7 +23,7 @@
 <div align="left">
   <h3>👋🏻 Discord</h3>
 	<a href="https://discord.com/users/925615206351122432" >  
-  		<img src="https://lanyard.kyrie25.me/api/925615206351122432"/>  
+  		<img src="https://lanyard.kyrie25.me/api/925615206351122432?theme=light&bg=00000000"/>  
 	</a>  
 </div>
 
