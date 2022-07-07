@@ -1,7 +1,7 @@
 # Github Stats
 <div align="left">
 	<a href="http://thejaydeep.tech" >  
-  		<img src="https://github-readme-stats.vercel.app/api?username=Git-Jaydeep&show_icons=true&count_private=true&custom_title=Jaydeep's GitHub Stats&theme=nightowl" />  
+  		<img src="https://github-readme-stats.vercel.app/api?username=WhoIsJayD&show_icons=true&count_private=true&custom_title=Jaydeep's GitHub Stats&theme=nightowl" />  
 	</a>
 </div>
 <!--
@@ -13,7 +13,7 @@
 
 <div align="left">
 	<a href="http://thejaydeep.tech" >  
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Jaydeep&langs_count=10&theme=light&bg=00000000" />  
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoIsJayD&langs_count=10&theme=light&bg=00000000" />  
 	</a>
 </div>
 -->
@@ -35,7 +35,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/Git-Jaydeep" >
-		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Git-Jaydeep&count_bg=%2357BDDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VisitedStats💫&edge_flat=false"/>
+		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WhoIsJayD&count_bg=00000000&title_bg=00000000&icon=github.svg&icon_color=%23E7E7E7&title=VisitedStats💫&edge_flat=false"/>
 	</a>
 </div>
 
