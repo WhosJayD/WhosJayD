@@ -1,7 +1,7 @@
 # Github Stats
 <div align="left">
 	<a href="http://thejaydeep.tech" >  
-  		<img src="https://github-readme-stats.vercel.app/api?username=WhoIsJayD&show_icons=true&count_private=true&custom_title=Jaydeep's GitHub Stats&theme=nightowl" />  
+  		<img src="https://github-readme-stats.vercel.app/api?username=WhoIsJayD&show_icons=true&count_private=true&custom_title=WhoIsJayD Github Stats ! &theme=nightowl" />  
 	</a>
 </div>
 <!--
