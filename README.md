@@ -1,7 +1,12 @@
 # Github Stats
 <div align="left">
-	<a href="http://thejaydeep.tech" >  
+	<a href="https://github.com/WhoIsJayD" >  
   		<img src="https://github-readme-stats.vercel.app/api?username=WhoIsJayD&show_icons=true&count_private=true&custom_title=WhoIsJayD Github Stats ! &theme=nightowl" />  
+	</a>
+</div>
+<div align="left">
+	<a href="https://github.com/WhoIsJayD" >  
+  		<img src="https://activity-graph.herokuapp.com/graph?username=WhoIsJayD&theme=react-dark" />  
 	</a>
 </div>
 <!--
