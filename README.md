@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=whoisjayd.whoisjayd&left_color=darkcyan&right_color=darkblue&left_text=Dumb%20Counts"  />
+  <img src="https://komarev.com/ghpvc/?username=WhoIsJayD&label=Dumb+Counts&style=for-the-badge&abbreviated=true&color=008B8B"  />
 </div>
 
 ###
