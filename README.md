@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WhoIsJayD&label=Dumb+Counts&style=for-the-badge&abbreviated=true&color=008B8B"  />
+  <img src="https://komarev.com/ghpvc/?username=WhoIsJayD&label=Visit+Counts&style=for-the-badge&abbreviated=true&color=008B8B"  />
 </div>
 
 ###
@@ -112,13 +112,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/whoisjayd/whoisjayd/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/v7979a26s0d6q6o4ncpdss42v">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=v7979a26s0d6q6o4ncpdss42v&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
